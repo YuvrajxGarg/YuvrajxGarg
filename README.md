@@ -17,11 +17,11 @@
 <img align="left" src="https://github.com/JeremyL95/jeremyl95/blob/main/images/html.png" alt="HTML" width="26px" />
 </a>
 
-<a href="https://github.com/JeremyL95" target="_blank"> 
+<a href="https://github.com/YuvrajxGarg" target="_blank"> 
 <img align="left" src="https://github.com/JeremyL95/jeremyl95/blob/main/images/css.png" alt="CSS" width="26px" />
 </a>
 
-<a href="https://github.com/JeremyL95" target="_blank"> 
+<a href="https://github.com/YuvrajxGarg" target="_blank"> 
 <img align="left" src="https://github.com/JeremyL95/jeremyl95/blob/main/images/javascript.png" alt="JavaScript" width="26px" />
 </a>
 
@@ -59,9 +59,15 @@
 ### 📈 Github Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YuvrajxGarg&show_icons=true&theme=dracula&line_height=33" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajxGarg&theme=dracula&line_height=10">
+  <img src ="https://github-readme-stats.vercel.app/api?username=YuvrajxGarg&show_icons=true&count_private=true&theme=merko&hide_border=true&bg_color=00000000&hide_rank=true">
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=YuvrajxGarg&layout=compact&hide_border=true&theme=merko&bg_color=00000000&langs_count=8">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=YuvrajxGarg&theme=merko&hide_border=true&background=FFFFFF00">
+  <br>
+  <br>
 </p>
+
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=YuvrajxGarg.visitor-badge&left_color=red&right_color=green&left_text=Hello%20Visitors)
+
 
 ---
 
